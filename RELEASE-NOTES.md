@@ -1,5 +1,25 @@
 ## RELEASE NOTES
 
+
+### Version 1.11.7 - April 13, 2015
+
+**Bugs**
+
+- **Sticky** - Fixes errant `console.log` statement appearing in source
+- **Card** - Fixes card `flex` display issues in IE
+- **Build Tools** - Fixes issue where `npm update` install scripts would remove custom themes from `src/themes/` during copy after updating Semantic UI
+
+### Version 1.11.6 - March 27, 2015
+
+More critical bug backports from `2.x` branch, as well as fixes for browserify
+
+**Bugs**
+- **Menu/Dropdown** - Fix dropdown headers disappearing inside menus
+- **Dropdown** - Fix unescaped character in css property causing css validation errors
+- **Form** - Fix `grouped required` fields display issues **Thanks @palmsey**
+- **All UI** - Fix `index.js` npm build to work with browserify in individual component repos **Thanks @sdimit**
+- **LESS Repo** - Add missing `semantic.less` file to less repo for importing components
+
 ### Version 1.11.5 - March 23, 2015
 
 This version backports several bugs that were being packed in `2.0` to `1.x`.
