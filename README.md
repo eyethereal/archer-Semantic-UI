@@ -1,5 +1,37 @@
 ![Semantic](http://www.semantic-ui.com/images/logo.png)
 
+# Archer Semantic UI
+
+To keep this fork in sync with new versions of normal Semantic
+```bash
+git remote add upstream git@github.com:eyethereal/archer.git
+```
+To verify
+```bash
+git remote -v
+```
+
+Fetch the branches and their respective commits from the upstream repository. Commits to master will be stored in a local branch, upstream/master.
+```bash
+git fetch upstream
+```
+
+Make sure you are on your local master before merging or you will have a bad time
+```bash
+git checkout master
+```
+
+Merge the changes from upstream/master into your local master branch. This brings your fork's master branch into sync with the upstream repository, without losing your local changes.
+```bash
+git merge upstream/master
+```
+
+Pushit real good
+
+General summary of these steps lives [here](https://help.github.com/articles/syncing-a-fork/)
+
+
+
 # Semantic UI
 
 [![Join the chat at https://gitter.im/Semantic-Org/Semantic-UI](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Semantic-Org/Semantic-UI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
