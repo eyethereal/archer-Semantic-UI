@@ -333,10 +333,10 @@
 }
 .ui.blue.message {
   background-color: #dff0ff;
-  color: #3b83c0;
+  color: #05a3d8;
 }
 .ui.blue.message .header {
-  color: #3576ac;
+  color: #0490bf;
 }
 .ui.green.message {
   background-color: #ebffed;
@@ -368,10 +368,10 @@
 }
 .ui.red.message {
   background-color: #ffe8e6;
-  color: #d95c5c;
+  color: #ca4b28;
 }
 .ui.red.message .header {
-  color: #d44747;
+  color: #b54324;
 }
 .ui.teal.message {
   background-color: #e9ffff;

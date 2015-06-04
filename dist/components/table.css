@@ -555,10 +555,10 @@
   border-top: 0.2em solid #1b1c1d;
 }
 .ui.blue.table {
-  border-top: 0.2em solid #3b83c0;
+  border-top: 0.2em solid #05a3d8;
 }
 .ui.green.table {
-  border-top: 0.2em solid #5bbd72;
+  border-top: 0.2em solid #14a57a;
 }
 .ui.orange.table {
   border-top: 0.2em solid #e07b53;
@@ -570,10 +570,10 @@
   border-top: 0.2em solid #564f8a;
 }
 .ui.red.table {
-  border-top: 0.2em solid #d95c5c;
+  border-top: 0.2em solid #ca4b28;
 }
 .ui.teal.table {
-  border-top: 0.2em solid #00b5ad;
+  border-top: 0.2em solid #5e899c;
 }
 .ui.yellow.table {
   border-top: 0.2em solid #f2c61f;
@@ -589,11 +589,11 @@
   color: #ffffff !important;
 }
 .ui.inverted.blue.table {
-  background-color: #3b83c0 !important;
+  background-color: #05a3d8 !important;
   color: #ffffff !important;
 }
 .ui.inverted.green.table {
-  background-color: #5bbd72 !important;
+  background-color: #14a57a !important;
   color: #ffffff !important;
 }
 .ui.inverted.orange.table {
@@ -609,11 +609,11 @@
   color: #ffffff !important;
 }
 .ui.inverted.red.table {
-  background-color: #d95c5c !important;
+  background-color: #ca4b28 !important;
   color: #ffffff !important;
 }
 .ui.inverted.teal.table {
-  background-color: #00b5ad !important;
+  background-color: #5e899c !important;
   color: #ffffff !important;
 }
 .ui.inverted.yellow.table {

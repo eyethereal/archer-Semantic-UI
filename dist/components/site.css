@@ -1,6 +1,5 @@
-@import 'https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin';
 /*!
- * # Semantic UI - Site
+ * # Semantic UI 1.11.8 - Site
  * http://github.com/semantic-org/semantic-ui/
  *
  *
@@ -15,6 +14,7 @@
              Page
 *******************************/
 
+@import 'https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin';
 html,
 body {
   height: 100%;
@@ -103,11 +103,11 @@ p:last-child {
 --------------------*/
 
 a {
-  color: #009fda;
+  color: #05a3d8;
   text-decoration: none;
 }
 a:hover {
-  color: #00b2f3;
+  color: #06b6f1;
 }
 
 
