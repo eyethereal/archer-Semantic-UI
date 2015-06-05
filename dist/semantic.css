@@ -13288,11 +13288,11 @@ ol.ui.horizontal.list li:before,
 
 .ui.steps .step.active {
   cursor: auto;
-  background: #314954;
+  background: #5e899c;
 }
 
 .ui.steps .step.active:after {
-  background: #314954;
+  background: #5e899c;
 }
 
 .ui.steps .step.active .title {
