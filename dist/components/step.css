@@ -242,6 +242,11 @@
 .ui.steps .step.active .title {
   color: #ffffff;
 }
+
+/* Description */
+.ui.steps .step.active .description {
+  color: #ffffff;
+}
 .ui.ordered.steps .step.active:before,
 .ui.steps .active.step .icon {
   color: #ffffff;
