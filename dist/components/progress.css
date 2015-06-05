@@ -154,7 +154,7 @@
   right: auto;
   left: 0%;
   bottom: auto;
-  color: rgba(0, 0, 0, 0.8);
+  color: #60727a;
   font-weight: bold;
   text-shadow: none;
   margin-top: 0.2em;
@@ -290,7 +290,7 @@
   background: #888888;
 }
 .ui.inverted.progress .bar > .progress {
-  color: #fafafa;
+  color: #eaecec;
 }
 .ui.inverted.progress > .label {
   color: #ffffff;
