@@ -121,8 +121,8 @@
 @inputErrorFocusBoxShadow: @inputErrorPointerSize 0em 0em 0em @negativeColorHover inset;
 
 /* Placeholder */
-@inputPlaceholderColor: lighten(@inputColor, 55);
-@inputPlaceholderFocusColor: lighten(@inputColor, 35);
+@inputPlaceholderColor: lighten(@inputColor, 35);
+@inputPlaceholderFocusColor: lighten(@inputColor, 25);
 @inputErrorPlaceholderColor: lighten(@formErrorColor, 10);
 @inputErrorPlaceholderFocusColor: lighten(@formErrorColor, 5);
 

@@ -528,7 +528,7 @@ select.ui.dropdown {
   pointer-events: none;
 }
 .ui.active.search.dropdown > input.search:focus + .text {
-  color: rgba(0, 0, 0, 0.6) !important;
+  color: rgba(0, 0, 0, 0.4) !important;
 }
 
 /* Search Menu */

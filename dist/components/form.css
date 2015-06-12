@@ -246,16 +246,16 @@
 
 /* browsers require these rules separate */
 .ui.form ::-webkit-input-placeholder {
-  color: #f9fafa;
+  color: #bfc9cd;
 }
 .ui.form ::-moz-placeholder {
-  color: #f9fafa;
+  color: #bfc9cd;
 }
 .ui.form :focus::-webkit-input-placeholder {
-  color: #bfc9cd;
+  color: #a3b1b7;
 }
 .ui.form :focus::-moz-placeholder {
-  color: #bfc9cd;
+  color: #a3b1b7;
 }
 
 /* Error Placeholder */
