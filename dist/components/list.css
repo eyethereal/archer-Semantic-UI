@@ -371,7 +371,7 @@ ol.ui.list ol,
 .ui.link.list .item,
 .ui.link.list a.item,
 .ui.link.list .item a {
-  color: rgba(0, 0, 0, 0.4);
+  color: rgba(0, 0, 0, 0.6);
   -webkit-transition: 0.2s color ease;
           transition: 0.2s color ease;
 }
@@ -417,7 +417,7 @@ ol.ui.list ol,
   background: transparent;
   padding: 0.5em 0.5em;
   margin: 0em;
-  color: rgba(0, 0, 0, 0.4);
+  color: rgba(0, 0, 0, 0.6);
   border-radius: 0.5em;
   -webkit-transition: 0.2s color ease, 0.2s padding-left ease, 0.2s background-color ease;
           transition: 0.2s color ease, 0.2s padding-left ease, 0.2s background-color ease;
