@@ -4,7 +4,7 @@
 
 To keep this fork in sync with new versions of normal Semantic
 ```bash
-git remote add upstream git@github.com:eyethereal/archer.git
+git remote add upstream git@github.com:Semantic-Org/Semantic-UI.git
 ```
 To verify
 ```bash
