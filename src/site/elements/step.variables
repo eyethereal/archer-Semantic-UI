@@ -1,0 +1,15 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+@backgroundColor: @offWhite;
+@titleColor: @teal;
+@descriptionColor: @darkGrey;
+
+
+
+@activeBackground: @teal;
+@activeColor: @white;
+@activeIconColor: @white;
+@activeDescriptionColor: @white;
+

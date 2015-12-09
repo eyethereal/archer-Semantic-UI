@@ -1,0 +1,58 @@
+
+/*******************************
+     User Global Variables
+*******************************/
+
+/*------------------------------------------------
+    Decidedly Color Palette
+    Spec Lives Right Myah:
+    https://app.zeplin.io/project.html#pid=556a2b875cf82f5a60fd9c4b&guideline
+
+    Refer to: 
+    themes/default/globals/site.variables
+    For information on what is being overridden
+-------------------------------------------------*/
+
+
+/*--- Cerulean ---*/
+@blue           : #05A3D8;
+/*--- VidaLoca ---*/
+@green          : #14A57A;
+/*--- Piper ---*/
+@red            : #CA4B28;
+/*--- PickledBluewood ---*/
+@lightBlack     : #314954;
+/*--- Horizon ---*/
+@teal           : #5E899C;
+
+
+/*--- BlackHaze ---*/
+@offWhite       : #EAECEC;
+/*--- Alto ----*/
+@lightGrey      : #D3D3D3;
+/*--- Silver ---*/
+@grey           : #C2C2C2;
+/*--- Boulder ---*/
+@darkGrey       : #7B7B7B;
+
+/*--- Mystery Main Text ---*/
+@textColor      : #60727A;
+
+@pageBackground : @offWhite;
+
+
+@unselectedTextColor         : rgba(0, 0, 0, 0.4);
+
+/*-------------------
+    Brand Colors
+--------------------*/
+
+@primaryColor   : @teal;
+@secondaryColor : @blue;
+
+
+/*-------------------
+       Links
+--------------------*/
+@linkColor      : @blue;
+
